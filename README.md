@@ -1,4 +1,4 @@
-# Setting Up
+# Learning HTML with Laura Jones Blog
 
 ## Table of Contents
 
