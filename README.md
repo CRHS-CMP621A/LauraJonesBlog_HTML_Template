@@ -14,7 +14,7 @@ These are the starting files required for following along with the Laura Jones B
 
 [VS Code Set-up Instructions](https://docs.google.com/document/d/1GFnkv3FAMRaBHmwgW5AD9kotyifEdvEtL1bijGmyykE/edit?usp=sharing)
 
-Use the link provided for instructions on how to...
+Use the link above for instructions on how to...
 
 a. _Fork_ a copy of this repository for yourself.
 
@@ -28,4 +28,6 @@ e. _Commit_ the files to the GitHub server.
 
 ## Building the HTML <a name = "instructions"></a>
 
-1.
+[Learning HTML with Laura Jones Blog (Google Doc)](https://docs.google.com/document/d/1Qsg7TodISB7116s2lw4c1arN05Kgs7wyGWuA5tKZVrg/edit?usp=sharing)
+
+Use the link above to make the raw blog content into a basic Blog Webpage!
