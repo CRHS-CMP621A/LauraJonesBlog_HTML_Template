@@ -24,6 +24,7 @@ In HTML, each element is made up of 3 parts:
 The opening tag
 The closing tag
 The actual element
+
 You can learn more at the MDN Web Docs. (link: https://developer.mozilla.org/en-US/docs/Web/HTML)
 
 Why should you learn HTML?
@@ -31,12 +32,13 @@ Why should you learn HTML?
 There are countless reasons for learning the fundamental language of the web. Here are 5 of them:
 
 To be able to use the fundamental web dev language
-To hand-craft beautiful websites instead of relying on tools like Worpress or Wix
+To hand-craft beautiful websites instead of relying on tools like Wordpress or Wix
 To build web applications
 To develop your skills for post-secondary study
 To have fun 😃
 
 Related posts
+
 How to Learn Web Development (link: https://coder-coder.com/learn-web-development/) 
 By Jonas Schmedtmann
 
